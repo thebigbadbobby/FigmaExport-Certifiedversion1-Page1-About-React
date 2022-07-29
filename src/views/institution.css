@@ -1,0 +1,275 @@
+.institution-container {
+  min-height: 100vh;
+}
+.institution-institution {
+  width: 1200px;
+  height: 741px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1200px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(249, 249, 249, 1);
+}
+.institution-frame61 {
+  top: 33px;
+  left: 665px;
+  width: 471px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.institution-text {
+  color: rgba(22, 22, 22, 1);
+  height: auto;
+  margin: 0 40px 0 0;
+  opacity: 0.60;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.institution-text01 {
+  color: rgba(22, 22, 22, 1);
+  height: auto;
+  margin: 0 40px 0 0;
+  opacity: 0.60;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.institution-text02 {
+  color: rgba(22, 22, 22, 1);
+  height: auto;
+  margin: 0 40px 0 0;
+  opacity: 0.60;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.institution-text03 {
+  color: rgba(22, 22, 22, 1);
+  height: auto;
+  margin: 0 40px 0 0;
+  opacity: 0.60;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.institution-text04 {
+  color: rgba(22, 22, 22, 1);
+  height: auto;
+  margin: 0 40px 0 0;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+}
+.institution-text05 {
+  color: rgba(22, 22, 22, 1);
+  height: auto;
+  opacity: 0.60;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.institution-bicheckcirclefill {
+  top: 28px;
+  left: 342px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.institution-frame75 {
+  top: 108px;
+  left: 307px;
+  width: 586px;
+  height: 472px;
+  display: flex;
+  padding: 37px 48px;
+  position: absolute;
+  box-shadow: 4px 12px 72px 0px rgba(4, 23, 24, 0.03999999910593033) ;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: rgba(37, 37, 37, 0.10000000149011612);
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 21px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.institution-group31 {
+  width: 583px;
+  height: 414px;
+  position: relative;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.institution-frame72 {
+  top: 681px;
+  left: 908px;
+  width: 239px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  justify-content: center;
+}
+.institution-text06 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  margin: 0 14px 0 0;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.institution-akariconslinkedinboxfill {
+  width: 24px;
+  height: 22px;
+  margin: 0 14px 0 0;
+  position: relative;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.institution-akariconsinstagramfill {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.institution-selectingteamcuate {
+  top: 435px;
+  right: -32px;
+  width: 336px;
+  height: 199.5894012451172px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 12px 16px 0px rgba(69, 57, 15, 0.05999999865889549) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.institution-character2 {
+  top: 0px;
+  left: 0px;
+  width: 255px;
+  height: 200px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.institution-table {
+  top: 186.865234375px;
+  left: -7.422393798828125px;
+  width: 329px;
+  height: 1px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.institution-text07 {
+  top: 23px;
+  left: 40px;
+  color: rgba(101, 204, 75, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Outfit;
+  font-weight: 800px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.institution-text08 {
+  color: rgba(101, 204, 75, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 800px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.institution-text09 {
+  color: rgba(22, 22, 22, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 800px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.institution-rectangle129 {
+  top: 54px;
+  right: 134px;
+  width: 66px;
+  height: 2px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(101, 204, 75, 1);
+}
