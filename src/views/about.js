@@ -170,9 +170,7 @@ const About = (props) => {
         </div>
         <div className="about-frame72">
           <a
-            href="https://educertified22@gmail.com"
-            target="_blank"
-            rel="noreferrer noopener"
+            href="mailto:educertified22@gmail.com?subject="
             className="about-text24"
           >
             educertified22@gmail.com

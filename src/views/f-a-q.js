@@ -117,9 +117,7 @@ const FAQ = (props) => {
         </div>
         <div className="f-a-q-frame72">
           <a
-            href="https://educertified22@gmail.com"
-            target="_blank"
-            rel="noreferrer noopener"
+            href="mailto:educertified22@gmail.com?subject="
             className="f-a-q-text18"
           >
             educertified22@gmail.com

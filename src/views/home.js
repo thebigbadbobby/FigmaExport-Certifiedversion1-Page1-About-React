@@ -151,9 +151,7 @@ const Home = (props) => {
         </span>
         <div className="home-frame72">
           <a
-            href="https://educertified22"
-            target="_blank"
-            rel="noreferrer noopener"
+            href="mailto:educertified22@gmail.com?subject="
             className="home-text13"
           >
             educertified22@gmail.com
