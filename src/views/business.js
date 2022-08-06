@@ -39,17 +39,38 @@ const Business = (props) => {
           />
         </div>
         <div className="business-frame72">
-          <span className="business-text06">educertified22@gmail.com</span>
-          <img
-            alt="akariconslinkedinboxfill12129"
-            src="/playground_assets/eb9db340-f1d9-4768-aa88-02339b40db52-ypi.svg"
-            className="business-akariconslinkedinboxfill"
-          />
-          <img
-            alt="akariconsinstagramfill12131"
-            src="/playground_assets/c743816f-16c9-4449-bbb5-0c8871097abd-34q.svg"
-            className="business-akariconsinstagramfill"
-          />
+          <a
+            href="https://educertified22@gmail.com"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="business-text06"
+          >
+            educertified22@gmail.com
+          </a>
+          <a
+            href="https://www.linkedin.com/mwlite/company/educertified"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="business-link"
+          >
+            <img
+              alt="akariconslinkedinboxfill12129"
+              src="/playground_assets/eb9db340-f1d9-4768-aa88-02339b40db52-ypi.svg"
+              className="business-akariconslinkedinboxfill"
+            />
+          </a>
+          <a
+            href="https://www.instagram.com/educertified/"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="business-link1"
+          >
+            <img
+              alt="akariconsinstagramfill12131"
+              src="/playground_assets/c743816f-16c9-4449-bbb5-0c8871097abd-34q.svg"
+              className="business-akariconsinstagramfill"
+            />
+          </a>
         </div>
         <span className="business-text07">
           <span className="business-text08">Cert</span>

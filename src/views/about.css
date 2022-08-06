@@ -651,6 +651,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.about-link {
+  display: contents;
+}
 .about-akariconslinkedinboxfill {
   width: 24px;
   height: 22px;
@@ -659,6 +662,10 @@
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  text-decoration: none;
+}
+.about-link1 {
+  display: contents;
 }
 .about-akariconsinstagramfill {
   width: 24px;
@@ -667,4 +674,5 @@
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  text-decoration: none;
 }

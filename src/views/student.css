@@ -183,6 +183,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.student-link {
+  display: contents;
+}
 .student-akariconslinkedinboxfill {
   width: 24px;
   height: 22px;
@@ -191,6 +194,10 @@
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  text-decoration: none;
+}
+.student-link1 {
+  display: contents;
 }
 .student-akariconsinstagramfill {
   width: 24px;
@@ -199,6 +206,7 @@
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  text-decoration: none;
 }
 .student-text07 {
   top: 23px;

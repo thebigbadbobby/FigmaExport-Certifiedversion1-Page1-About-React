@@ -169,17 +169,38 @@ const About = (props) => {
           </span>
         </div>
         <div className="about-frame72">
-          <span className="about-text24">educertified22@gmail.com</span>
-          <img
-            alt="akariconslinkedinboxfill12117"
-            src="/playground_assets/6180bbe4-74f0-4f4b-95cc-856493e847c4-38.svg"
-            className="about-akariconslinkedinboxfill"
-          />
-          <img
-            alt="akariconsinstagramfill12119"
-            src="/playground_assets/b1e9cffc-2e8f-4342-a73b-a11de2ee12e8-43i.svg"
-            className="about-akariconsinstagramfill"
-          />
+          <a
+            href="https://educertified22@gmail.com"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="about-text24"
+          >
+            educertified22@gmail.com
+          </a>
+          <a
+            href="https://www.linkedin.com/mwlite/company/educertified"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="about-link"
+          >
+            <img
+              alt="akariconslinkedinboxfill12117"
+              src="/playground_assets/6180bbe4-74f0-4f4b-95cc-856493e847c4-38.svg"
+              className="about-akariconslinkedinboxfill"
+            />
+          </a>
+          <a
+            href="https://www.instagram.com/educertified/"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="about-link1"
+          >
+            <img
+              alt="akariconsinstagramfill12119"
+              src="/playground_assets/b1e9cffc-2e8f-4342-a73b-a11de2ee12e8-43i.svg"
+              className="about-akariconsinstagramfill"
+            />
+          </a>
         </div>
       </div>
     </div>

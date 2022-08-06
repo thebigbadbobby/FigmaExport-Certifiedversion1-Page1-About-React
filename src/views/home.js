@@ -150,17 +150,38 @@ const Home = (props) => {
           />
         </span>
         <div className="home-frame72">
-          <span className="home-text13">educertified22@gmail.com</span>
-          <img
-            alt="akariconslinkedinboxfill1215"
-            src="/playground_assets/dba7d441-05de-48cc-ac0a-22b98828c290-rfb4.svg"
-            className="home-akariconslinkedinboxfill"
-          />
-          <img
-            alt="akariconsinstagramfill1217"
-            src="/playground_assets/a9c388bd-b80e-4111-a374-bd495ad22de4-uq4a.svg"
-            className="home-akariconsinstagramfill"
-          />
+          <a
+            href="https://educertified22"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="home-text13"
+          >
+            educertified22@gmail.com
+          </a>
+          <a
+            href="https://www.linkedin.com/mwlite/company/educertified"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="home-link"
+          >
+            <img
+              alt="akariconslinkedinboxfill1215"
+              src="/playground_assets/dba7d441-05de-48cc-ac0a-22b98828c290-rfb4.svg"
+              className="home-akariconslinkedinboxfill"
+            />
+          </a>
+          <a
+            href="https://www.instagram.com/educertified/"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="home-link1"
+          >
+            <img
+              alt="akariconsinstagramfill1217"
+              src="/playground_assets/a9c388bd-b80e-4111-a374-bd495ad22de4-uq4a.svg"
+              className="home-akariconsinstagramfill"
+            />
+          </a>
         </div>
         <span className="home-text14">
           <span className="home-text15">Cert</span>

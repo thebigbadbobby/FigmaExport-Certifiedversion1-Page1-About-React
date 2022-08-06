@@ -44,17 +44,38 @@ const Student = (props) => {
         </div>
         <div className="student-bicheckcirclefill"></div>
         <div className="student-frame72">
-          <span className="student-text06">educertified22@gmail.com</span>
-          <img
-            alt="akariconslinkedinboxfill12123"
-            src="/playground_assets/429fe15d-dffb-4cef-a660-f0f083cc1e23-qzx.svg"
-            className="student-akariconslinkedinboxfill"
-          />
-          <img
-            alt="akariconsinstagramfill12125"
-            src="/playground_assets/d7a52df2-5232-468d-b2c1-2a7873095021-l6px.svg"
-            className="student-akariconsinstagramfill"
-          />
+          <a
+            href="https://educertified22@gmail.com"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="student-text06"
+          >
+            educertified22@gmail.com
+          </a>
+          <a
+            href="https://www.linkedin.com/mwlite/company/educertified"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="student-link"
+          >
+            <img
+              alt="akariconslinkedinboxfill12123"
+              src="/playground_assets/429fe15d-dffb-4cef-a660-f0f083cc1e23-qzx.svg"
+              className="student-akariconslinkedinboxfill"
+            />
+          </a>
+          <a
+            href="https://www.instagram.com/educertified/"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="student-link1"
+          >
+            <img
+              alt="akariconsinstagramfill12125"
+              src="/playground_assets/d7a52df2-5232-468d-b2c1-2a7873095021-l6px.svg"
+              className="student-akariconsinstagramfill"
+            />
+          </a>
         </div>
         <span className="student-text07">
           <span className="student-text08">Cert</span>

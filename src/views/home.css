@@ -501,6 +501,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.home-link {
+  display: contents;
+}
 .home-akariconslinkedinboxfill {
   width: 24px;
   height: 22px;
@@ -509,6 +512,10 @@
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  text-decoration: none;
+}
+.home-link1 {
+  display: contents;
 }
 .home-akariconsinstagramfill {
   width: 24px;
@@ -517,6 +524,7 @@
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  text-decoration: none;
 }
 .home-text14 {
   top: 23px;

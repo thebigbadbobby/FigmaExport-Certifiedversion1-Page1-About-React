@@ -177,6 +177,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.business-link {
+  display: contents;
+}
 .business-akariconslinkedinboxfill {
   width: 24px;
   height: 22px;
@@ -185,6 +188,10 @@
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  text-decoration: none;
+}
+.business-link1 {
+  display: contents;
 }
 .business-akariconsinstagramfill {
   width: 24px;
@@ -193,6 +200,7 @@
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  text-decoration: none;
 }
 .business-text07 {
   top: 23px;

@@ -39,17 +39,38 @@ const Institution = (props) => {
           />
         </div>
         <div className="institution-frame72">
-          <span className="institution-text06">educertified22@gmail.com</span>
-          <img
-            alt="akariconslinkedinboxfill12141"
-            src="/playground_assets/11d8cea6-e457-4a22-a88b-c51b56b465f3-b9xc.svg"
-            className="institution-akariconslinkedinboxfill"
-          />
-          <img
-            alt="akariconsinstagramfill12143"
-            src="/playground_assets/3734c720-c99b-4250-9c43-5eacb497aaee-fere.svg"
-            className="institution-akariconsinstagramfill"
-          />
+          <a
+            href="https://educertified22@gmail.com"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="institution-text06"
+          >
+            educertified22@gmail.com
+          </a>
+          <a
+            href="https://www.linkedin.com/mwlite/company/educertified"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="institution-link"
+          >
+            <img
+              alt="akariconslinkedinboxfill12141"
+              src="/playground_assets/11d8cea6-e457-4a22-a88b-c51b56b465f3-b9xc.svg"
+              className="institution-akariconslinkedinboxfill"
+            />
+          </a>
+          <a
+            href="https://www.instagram.com/educertified/"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="institution-link1"
+          >
+            <img
+              alt="akariconsinstagramfill12143"
+              src="/playground_assets/3734c720-c99b-4250-9c43-5eacb497aaee-fere.svg"
+              className="institution-akariconsinstagramfill"
+            />
+          </a>
         </div>
         <div className="institution-selectingteamcuate">
           <img

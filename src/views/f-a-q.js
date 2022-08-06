@@ -116,17 +116,38 @@ const FAQ = (props) => {
           </div>
         </div>
         <div className="f-a-q-frame72">
-          <span className="f-a-q-text18">educertified22@gmail.com</span>
-          <img
-            alt="akariconslinkedinboxfill12153"
-            src="/playground_assets/80f5ab9c-8988-41b9-8233-861cc7a4219e-9hc.svg"
-            className="f-a-q-akariconslinkedinboxfill"
-          />
-          <img
-            alt="akariconsinstagramfill12155"
-            src="/playground_assets/23da6709-6316-4062-89f7-b7964dbed182-pzn9.svg"
-            className="f-a-q-akariconsinstagramfill"
-          />
+          <a
+            href="https://educertified22@gmail.com"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="f-a-q-text18"
+          >
+            educertified22@gmail.com
+          </a>
+          <a
+            href="https://www.linkedin.com/mwlite/company/educertified"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="f-a-q-link"
+          >
+            <img
+              alt="akariconslinkedinboxfill12153"
+              src="/playground_assets/80f5ab9c-8988-41b9-8233-861cc7a4219e-9hc.svg"
+              className="f-a-q-akariconslinkedinboxfill"
+            />
+          </a>
+          <a
+            href="https://www.instagram.com/educertified/"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="f-a-q-link1"
+          >
+            <img
+              alt="akariconsinstagramfill12155"
+              src="/playground_assets/23da6709-6316-4062-89f7-b7964dbed182-pzn9.svg"
+              className="f-a-q-akariconsinstagramfill"
+            />
+          </a>
         </div>
         <span className="f-a-q-text19">
           <span className="f-a-q-text20">Cert</span>
